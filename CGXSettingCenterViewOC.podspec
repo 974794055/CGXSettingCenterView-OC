@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     #需要托管的源代码路径
     s.source_files = 'CGXSettingCenterViewOC/CGXSettingCenterViewOC.h'
     #开源库头文件
-    s.public_header_files = 'CGXSettingCenterViewOC/**/*.{h,m}'
+    s.public_header_files = 'CGXSettingCenterViewOC/CGXSettingCenterViewOC.h'
     
     s.subspec 'CustomModel' do |ss|
         ss.source_files = 'CGXSettingCenterViewOC/CustomModel/**/*.{h,m}'

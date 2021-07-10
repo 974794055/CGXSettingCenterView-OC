@@ -20,8 +20,22 @@
 
 
 #import "CGXSettingCenterView.h"
+
+#import "CGXSettingCenterFooterView.h"
+#import "CGXSettingCenterHeaderView.h"
+
+#import "CGXSettingCenterSectionTextModel.h"
 #import "CGXSettingCenterSectionModel.h"
 #import "CGXSettingCenterSectionItemModel.h"
 #import "CGXSettingCenterTools.h"
+
+#import "CGXSettingCenterBaseCell.h"
+#import "CGXSettingCenterArrowCell.h"
+#import "CGXSettingCenterCustomCell.h"
+#import "CGXSettingCenterImageCell.h"
+#import "CGXSettingCenterSwitchCell.h"
+#import "CGXSettingCenterTextCell.h"
+#import "CGXSettingCenterTitleCell.h"
+
 
 #endif /* CGXSettingCenterViewOC_h */
