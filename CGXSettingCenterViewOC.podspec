@@ -24,6 +24,7 @@ Pod::Spec.new do |s|
         ss.source_files = 'CGXSettingCenterViewOC/CustomView/**/*.{h,m}'
         ss.dependency 'CGXSettingCenterViewOC/CustomModel'
     end
+    
 end
 
 

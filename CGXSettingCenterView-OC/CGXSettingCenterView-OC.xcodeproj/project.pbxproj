@@ -16,9 +16,9 @@
 		6867CA7B86CB7299FD8EA00F /* libPods-CGXSettingCenterView-OC.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 96EFF12AF6B620A804F83F8A /* libPods-CGXSettingCenterView-OC.a */; };
 		E041CF72269966EF00D08E79 /* CustomSectionHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = E041CF71269966EF00D08E79 /* CustomSectionHeaderView.m */; };
 		E041CF752699671F00D08E79 /* CustomSectionFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = E041CF742699671F00D08E79 /* CustomSectionFooterView.m */; };
-		E0C398DF268A0D4C009C669F /* CGXSettingCenterViewOC.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E0C398DC268A0D4C009C669F /* CGXSettingCenterViewOC.podspec */; };
-		E0C398E0268A0D4C009C669F /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E0C398DD268A0D4C009C669F /* LICENSE */; };
-		E0C398E1268A0D4C009C669F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E0C398DE268A0D4C009C669F /* README.md */; };
+		E04D5E192699E96F0073C1B6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E04D5E162699E96F0073C1B6 /* README.md */; };
+		E04D5E1A2699E96F0073C1B6 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = E04D5E172699E96F0073C1B6 /* LICENSE */; };
+		E04D5E1B2699E96F0073C1B6 /* CGXSettingCenterViewOC.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E04D5E182699E96F0073C1B6 /* CGXSettingCenterViewOC.podspec */; };
 		E0E278942695DB3600115617 /* CustomHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = E0E278932695DB3600115617 /* CustomHeaderView.m */; };
 		E0E278972695DB4100115617 /* CustomFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = E0E278962695DB4100115617 /* CustomFooterView.m */; };
 		E0E2789E2695EC9500115617 /* CustomItemCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = E0E2789D2695EC9500115617 /* CustomItemCellView.m */; };
@@ -42,9 +42,9 @@
 		E041CF71269966EF00D08E79 /* CustomSectionHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomSectionHeaderView.m; sourceTree = "<group>"; };
 		E041CF732699671F00D08E79 /* CustomSectionFooterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomSectionFooterView.h; sourceTree = "<group>"; };
 		E041CF742699671F00D08E79 /* CustomSectionFooterView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomSectionFooterView.m; sourceTree = "<group>"; };
-		E0C398DC268A0D4C009C669F /* CGXSettingCenterViewOC.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CGXSettingCenterViewOC.podspec; path = ../../../CGXSettingCenterViewOC.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		E0C398DD268A0D4C009C669F /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../../LICENSE; sourceTree = "<group>"; };
-		E0C398DE268A0D4C009C669F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../README.md; sourceTree = "<group>"; };
+		E04D5E162699E96F0073C1B6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../README.md; sourceTree = "<group>"; };
+		E04D5E172699E96F0073C1B6 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../../LICENSE; sourceTree = "<group>"; };
+		E04D5E182699E96F0073C1B6 /* CGXSettingCenterViewOC.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CGXSettingCenterViewOC.podspec; path = ../../../CGXSettingCenterViewOC.podspec; sourceTree = "<group>"; };
 		E0E278922695DB3600115617 /* CustomHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomHeaderView.h; sourceTree = "<group>"; };
 		E0E278932695DB3600115617 /* CustomHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomHeaderView.m; sourceTree = "<group>"; };
 		E0E278952695DB4100115617 /* CustomFooterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomFooterView.h; sourceTree = "<group>"; };
@@ -86,7 +86,7 @@
 		0405A68226897E3900CAE43E /* CGXSettingCenterView-OC */ = {
 			isa = PBXGroup;
 			children = (
-				0405A69C268980EA00CAE43E /* Podspec Metadata */,
+				E04D5E152699E9630073C1B6 /* Podspec Metadata */,
 				0405A68326897E3900CAE43E /* AppDelegate.h */,
 				0405A68426897E3900CAE43E /* AppDelegate.m */,
 				0405A68926897E3900CAE43E /* ViewController.h */,
@@ -110,16 +110,6 @@
 			path = "CGXSettingCenterView-OC";
 			sourceTree = "<group>";
 		};
-		0405A69C268980EA00CAE43E /* Podspec Metadata */ = {
-			isa = PBXGroup;
-			children = (
-				E0C398DC268A0D4C009C669F /* CGXSettingCenterViewOC.podspec */,
-				E0C398DD268A0D4C009C669F /* LICENSE */,
-				E0C398DE268A0D4C009C669F /* README.md */,
-			);
-			path = "Podspec Metadata";
-			sourceTree = "<group>";
-		};
 		53530253DA5985DDBE9E7C19 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -127,6 +117,16 @@
 				3E04CDFA1A0E59C80545D1BD /* Pods-CGXSettingCenterView-OC.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		E04D5E152699E9630073C1B6 /* Podspec Metadata */ = {
+			isa = PBXGroup;
+			children = (
+				E04D5E182699E96F0073C1B6 /* CGXSettingCenterViewOC.podspec */,
+				E04D5E172699E96F0073C1B6 /* LICENSE */,
+				E04D5E162699E96F0073C1B6 /* README.md */,
+			);
+			path = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
 		E2DA4E7902949F1998DE9CA9 /* Frameworks */ = {
@@ -194,12 +194,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E0C398E1268A0D4C009C669F /* README.md in Resources */,
-				E0C398DF268A0D4C009C669F /* CGXSettingCenterViewOC.podspec in Resources */,
+				E04D5E1B2699E96F0073C1B6 /* CGXSettingCenterViewOC.podspec in Resources */,
 				0405A69326897E3B00CAE43E /* LaunchScreen.storyboard in Resources */,
 				0405A69026897E3B00CAE43E /* Assets.xcassets in Resources */,
+				E04D5E192699E96F0073C1B6 /* README.md in Resources */,
 				0405A68E26897E3900CAE43E /* Main.storyboard in Resources */,
-				E0C398E0268A0D4C009C669F /* LICENSE in Resources */,
+				E04D5E1A2699E96F0073C1B6 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -39,12 +39,10 @@ NS_ASSUME_NONNULL_BEGIN
  @return tableHeaderView
  */
 - (UIView *)gxSettingCenterViewFooterView:(CGXSettingCenterView *)centerView;
-
 /**
  自定义cell
  @return UITableViewCell
- 
- item。CGXSettingCenterSectionTypeCustom 有效  需要注册cell
+ item。CGXSettingCenterSectionTypeCustom 有效
  */
 - (UIView *)gxSettingCenterViewCellView:(CGXSettingCenterView *)centerView
                   cellForRowAtIndexPath:(NSIndexPath *)indexPath;

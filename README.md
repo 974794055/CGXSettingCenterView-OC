@@ -2,7 +2,6 @@
 
 - 下载链接：https://github.com/974794055/CGXSettingCenterView-OC.git
 -  最新版本号： 0.0.1
-
 ### 功能：    
 - CGXSettingCenterViewOC是基于UITableView封装的项目设置页面的轻量级库，实现了左侧图文组合、右侧头像、开关、富文本显示效果
 ### 优点：
