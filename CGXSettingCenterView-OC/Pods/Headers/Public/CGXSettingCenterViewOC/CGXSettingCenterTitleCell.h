@@ -1,1 +1,1 @@
-../../../../../CGXSettingCenterViewOC/CustomView/CGXSettingCenterTitleCell.h
+../../../../../CGXSettingCenterViewOC/CustomCell/CGXSettingCenterTitleCell.h

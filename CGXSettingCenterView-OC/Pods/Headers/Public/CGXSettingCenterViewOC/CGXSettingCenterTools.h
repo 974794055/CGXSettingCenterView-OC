@@ -1,1 +1,1 @@
-../../../../../CGXSettingCenterViewOC/CGXSettingCenterTools.h
+../../../../../CGXSettingCenterViewOC/CustomView/CGXSettingCenterTools.h

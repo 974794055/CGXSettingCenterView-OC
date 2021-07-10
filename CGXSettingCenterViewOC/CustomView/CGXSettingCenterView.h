@@ -5,13 +5,6 @@
 //  Created by CGX on 2021/07/10.
 //  Copyright © 2018 CGX. All rights reserved.
 //
-/*
- 下载链接：https://github.com/974794055/CGXCategoryView-OC.git
- QQ号：974794055
- 群名称：
- 群   号：
- 版本： 0.0.1
- */
 
 #import <UIKit/UIKit.h>
 #import "CGXSettingCenterSectionModel.h"
