@@ -29,6 +29,7 @@ Pod::Spec.new do |s|
         ss.dependency 'CGXSettingCenterViewOC/CustomModel'
         ss.dependency 'CGXSettingCenterViewOC/CustomCell'
     end
+    
 end
 
 

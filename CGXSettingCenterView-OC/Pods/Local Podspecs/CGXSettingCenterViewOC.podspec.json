@@ -25,7 +25,7 @@
   ],
   "static_framework": true,
   "source_files": "CGXSettingCenterViewOC/CGXSettingCenterViewOC.h",
-  "public_header_files": "CGXSettingCenterViewOC/**/*.{h,m}",
+  "public_header_files": "CGXSettingCenterViewOC/CGXSettingCenterViewOC.h",
   "subspecs": [
     {
       "name": "CustomModel",
