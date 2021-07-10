@@ -7,14 +7,13 @@
 //
 
 #import "ViewController.h"
-#import <CGXSettingCenterViewOC/CGXSettingCenterView.h>
+#import <CGXSettingCenterViewOC/CGXSettingCenterViewOC.h>
 #import "CustomFooterView.h"
 #import "CustomHeaderView.h"
 #import "CustomItemCellView.h"
 #import "CustomSectionFooterView.h"
 #import "CustomSectionHeaderView.h"
 #define random(r, g, b, a) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:(a)/255.0]
-
 
 #define RandomColor random(arc4random_uniform(256), arc4random_uniform(256), arc4random_uniform(256), arc4random_uniform(256))
 

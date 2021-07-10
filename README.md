@@ -7,12 +7,10 @@
 ### 优点：
 - 1、常规效果需求可实现；
 - 2、实现自定义Cell、头分区、脚分区，额外需求扩展更简单；
-
 ## 要求
 - iOS 9+
 - Xcode 9+
 - Objective-C
-
 ## 安装
 ### 手动
 Clone代码，把Sources文件夹拖入项目，#import "CGXSettingCenterView.h"

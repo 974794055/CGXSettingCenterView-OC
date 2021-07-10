@@ -44,7 +44,7 @@
 		E041CF742699671F00D08E79 /* CustomSectionFooterView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomSectionFooterView.m; sourceTree = "<group>"; };
 		E04D5E162699E96F0073C1B6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../README.md; sourceTree = "<group>"; };
 		E04D5E172699E96F0073C1B6 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../../LICENSE; sourceTree = "<group>"; };
-		E04D5E182699E96F0073C1B6 /* CGXSettingCenterViewOC.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CGXSettingCenterViewOC.podspec; path = ../../../CGXSettingCenterViewOC.podspec; sourceTree = "<group>"; };
+		E04D5E182699E96F0073C1B6 /* CGXSettingCenterViewOC.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CGXSettingCenterViewOC.podspec; path = ../../../CGXSettingCenterViewOC.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E0E278922695DB3600115617 /* CustomHeaderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomHeaderView.h; sourceTree = "<group>"; };
 		E0E278932695DB3600115617 /* CustomHeaderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomHeaderView.m; sourceTree = "<group>"; };
 		E0E278952695DB4100115617 /* CustomFooterView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomFooterView.h; sourceTree = "<group>"; };

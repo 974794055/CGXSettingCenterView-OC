@@ -7,37 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		097CD01DC1EA369102138DD8363D3195 /* CGXSettingCenterSwitchCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BE9AE93B00B8808624FEC2042F453B76 /* CGXSettingCenterSwitchCell.m */; };
-		2AF1529062508878C49A48A6C64419F4 /* CGXSettingCenterSectionItemModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 2215593AB7C08B8BD1968DC74A1E9B55 /* CGXSettingCenterSectionItemModel.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		32FCE2B4138A7F65458453AE10D5C4ED /* CGXSettingCenterViewOC.h in Headers */ = {isa = PBXBuildFile; fileRef = C80D01A020037A2EE0BEBDB16FF743FC /* CGXSettingCenterViewOC.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		3470996B0FEBC5FB5B05BC8FEA5EC091 /* CGXSettingCenterCustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 41601F49959DFDA9659D607ABACA2AF1 /* CGXSettingCenterCustomCell.m */; };
-		41579CE1BEFD09AB92821512608DEE1E /* CGXSettingCenterCustomCell.h in Headers */ = {isa = PBXBuildFile; fileRef = F2B7A9368CFA3428ED7607583AC8139C /* CGXSettingCenterCustomCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		42F9269D67B354F1D684BBB2EA8E7E32 /* CGXSettingCenterSectionTextModel.h in Headers */ = {isa = PBXBuildFile; fileRef = AD47AD6E4694845F564D7F28ADF1398B /* CGXSettingCenterSectionTextModel.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		4957A2474A8DD6F393CEBBC9EFB6975F /* CGXSettingCenterHeaderView.h in Headers */ = {isa = PBXBuildFile; fileRef = 877AC9A430F0A6CBCF47E6DF2C734C9F /* CGXSettingCenterHeaderView.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		497038FF0FA0AAE1BD349C7EF8053CBE /* CGXSettingCenterTools.m in Sources */ = {isa = PBXBuildFile; fileRef = F3C42CD7A3BF600AB6CBA451162E9F93 /* CGXSettingCenterTools.m */; };
-		4E0112DBA738F2FC8B2E57F47BA4EBA3 /* CGXSettingCenterImageCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 8935554604CBAB3F6D440DA0EB2FE3BA /* CGXSettingCenterImageCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		5ABBA3BC83EC4EB48F5A4D18F014D0F4 /* CGXSettingCenterHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F371AC0421195FC145E504F1EF80CF1 /* CGXSettingCenterHeaderView.m */; };
-		70205335DE1972FC80D466C272E994CE /* CGXSettingCenterSwitchCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 26886E1C46412746253A9D6E6A62F78D /* CGXSettingCenterSwitchCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		7D8BCEC3103E11AC95245AA331EA9744 /* CGXSettingCenterSectionModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 8D4823CB0E6FE9DD7AAE854B328898EB /* CGXSettingCenterSectionModel.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		84CE5992BFCBDD14012655962A55A372 /* CGXSettingCenterView.h in Headers */ = {isa = PBXBuildFile; fileRef = D9D6A333BAA3929594E35597015E35AC /* CGXSettingCenterView.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		86291BA10FD18B6C6D55A6F34AE34A18 /* CGXSettingCenterFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A2988283CE808F03E81DAD89DEF2496 /* CGXSettingCenterFooterView.m */; };
-		8855C163BAFA05586674B67ED6EAF3D5 /* CGXSettingCenterImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CF0E29469E271D35C11CB9E34DAC4BEF /* CGXSettingCenterImageCell.m */; };
-		986FF571DA02CAB162E605FA2AEE75C1 /* CGXSettingCenterView.m in Sources */ = {isa = PBXBuildFile; fileRef = EB53150E7757E1396026A214308DDCFD /* CGXSettingCenterView.m */; };
-		9E580C5A90D67C4B064A5B8A45D934E6 /* CGXSettingCenterBaseCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F93D2FF32C189EC517CE5E2C8494AD9 /* CGXSettingCenterBaseCell.m */; };
-		A6FAB142296887DC7567803D9D7C9B9D /* CGXSettingCenterArrowCell.h in Headers */ = {isa = PBXBuildFile; fileRef = E74F1DCE3B30561A9DF9175B6868C9C0 /* CGXSettingCenterArrowCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		BAA02F59E2AAF34852B826ED00755E4A /* CGXSettingCenterTitleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 676D957C62FACADDBD39AD443D5D782D /* CGXSettingCenterTitleCell.m */; };
-		BC498256D81DBD17C3C2DCD84F6EE7E4 /* CGXSettingCenterArrowCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A23E6BDA5BFD937A867AC1338B4F6378 /* CGXSettingCenterArrowCell.m */; };
-		C336E15E49393A14DABC526B5BBCDABA /* CGXSettingCenterSectionTextModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D879C370A84269F46BA8643D2CA8244 /* CGXSettingCenterSectionTextModel.m */; };
-		C3DBDE6267DA5D1D6A598025F14A2011 /* CGXSettingCenterSectionModel.m in Sources */ = {isa = PBXBuildFile; fileRef = E6D0001F29393EC0F0FB392495B45D7E /* CGXSettingCenterSectionModel.m */; };
-		DCDEE72D4C83B2EC6BE805D1AAD35AA7 /* CGXSettingCenterTextCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C6D6F75E98FD40F0236C06DC96E873A6 /* CGXSettingCenterTextCell.m */; };
-		DD877D5B6A8E8C88737B5445F6D1D8E6 /* CGXSettingCenterViewOC-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E251ABC189CB441390CC50CD1FE638B /* CGXSettingCenterViewOC-dummy.m */; };
-		E1EA8DC18B56A17E7A018D67A563B7F9 /* CGXSettingCenterFooterView.h in Headers */ = {isa = PBXBuildFile; fileRef = 1BD4DE433C794258F351BBE34DC8E8C0 /* CGXSettingCenterFooterView.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		E5E728BD63B6874F27CDCC60528DB134 /* CGXSettingCenterBaseCell.h in Headers */ = {isa = PBXBuildFile; fileRef = B0DE587E46842E3E199F8A202FACBBC3 /* CGXSettingCenterBaseCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		F1F4B54B087527F3E642DD93AE35C627 /* CGXSettingCenterTextCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 69C713BF81902FBA67DE3D4B6F75817F /* CGXSettingCenterTextCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		F3B63C74151DC25AB49139D9ADA32EAF /* CGXSettingCenterSectionItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 242F91DC646041F6713823912EAD541C /* CGXSettingCenterSectionItemModel.m */; };
+		0A67B3587C7B931B5B0B00F604326B6E /* CGXSettingCenterTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 000C0DFD904489F6A8FF525F0E347119 /* CGXSettingCenterTools.m */; };
+		1083BB5CDB4E3BDBB809E1F9AC3FE298 /* CGXSettingCenterTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 45AD4DE4E96404E297DB6E4EA78C2036 /* CGXSettingCenterTools.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		27FB508BF1DAB1FAC0B9302E495E818B /* CGXSettingCenterFooterView.h in Headers */ = {isa = PBXBuildFile; fileRef = D10A1D4C3B672AEF0B36984140BCCC75 /* CGXSettingCenterFooterView.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		3AC1797A0CF4C82CE930EC17A091AACB /* CGXSettingCenterTitleCell.h in Headers */ = {isa = PBXBuildFile; fileRef = E7D24B44F1085264F73CE3B19DF26FF6 /* CGXSettingCenterTitleCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		486FA1E34D81E9D52B2A909A2F2309D8 /* CGXSettingCenterSectionTextModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 299B60CB7BB8561A9212DE7F694C39A6 /* CGXSettingCenterSectionTextModel.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		5150CB69FAD6ADCA9589234F7C59AF66 /* CGXSettingCenterArrowCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ACAEA5771314701AEB69C44D2189A8AE /* CGXSettingCenterArrowCell.m */; };
+		5B930D2DD88089FEE945624DC5BC3C98 /* CGXSettingCenterHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = F574AAB45213B55E7097E91BE7EB3185 /* CGXSettingCenterHeaderView.m */; };
+		64682328D5F87CCF99E5F5448BDAAD1C /* CGXSettingCenterImageCell.h in Headers */ = {isa = PBXBuildFile; fileRef = A6ACCC984EC3D9BAB85ABBAEC5A8DD4B /* CGXSettingCenterImageCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		69B34D7374187D8EAE9A2D06C42AD420 /* CGXSettingCenterSwitchCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D48AF37FF15008F942630A3A1017048C /* CGXSettingCenterSwitchCell.m */; };
+		6C8556DC2F29C456CB4B7DF9F0D6DB85 /* CGXSettingCenterTitleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C63CD38F13BDC372DE5BEC4EE38E3CC /* CGXSettingCenterTitleCell.m */; };
+		787C4F97CB2A85CEFB14A363C57D5C63 /* CGXSettingCenterBaseCell.h in Headers */ = {isa = PBXBuildFile; fileRef = BA60D5E211CE775598298A899F08000F /* CGXSettingCenterBaseCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		7EDB3DBCBA5B100A4462089C7F5CA680 /* CGXSettingCenterView.h in Headers */ = {isa = PBXBuildFile; fileRef = A78F965711206D7BC0561D7866B237EA /* CGXSettingCenterView.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		81B70F38B4AB02D262B697DF0790BCB4 /* CGXSettingCenterSectionItemModel.h in Headers */ = {isa = PBXBuildFile; fileRef = D9EF7DCB3C3FC24307F579BB04FF164F /* CGXSettingCenterSectionItemModel.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		962264F115B32043F9E9EC5744D66022 /* CGXSettingCenterHeaderView.h in Headers */ = {isa = PBXBuildFile; fileRef = F9F5F39E964642FB0439562BF9D24814 /* CGXSettingCenterHeaderView.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		9760D0AE56D6CB0627B54AF4E8EEB984 /* CGXSettingCenterViewOC.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F9B560578B03AF0ED340D3790390311 /* CGXSettingCenterViewOC.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		997BE18042747F5BD210A1F5F64AF694 /* CGXSettingCenterTextCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D9096CC79C25475C7121CA52BF0F955D /* CGXSettingCenterTextCell.m */; };
+		A4F4829B12BB4AB8EB6D5AFA2736E73D /* CGXSettingCenterImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 52A81932A80EE62A384DB2ECAECACA92 /* CGXSettingCenterImageCell.m */; };
+		AC505D18E48B210E18496FA92B57F852 /* CGXSettingCenterCustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 07721DCE86AA1A33F9B3337B4ECE65C3 /* CGXSettingCenterCustomCell.m */; };
+		ACE5A445FDC2EDCF4D2CD70A7CD48E83 /* CGXSettingCenterFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = A6C77455668A3155F6195C2E5590AC79 /* CGXSettingCenterFooterView.m */; };
+		C666B9A80D8CDD6EB82E73BE4DF21EEF /* CGXSettingCenterSectionItemModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DD7D79C5594C960C3F721077D7B5668 /* CGXSettingCenterSectionItemModel.m */; };
+		CB86C4507AB89D84FBC37EBC753F25D0 /* CGXSettingCenterSwitchCell.h in Headers */ = {isa = PBXBuildFile; fileRef = AE4CC708479535E00FCD2F4FF2CD3A3A /* CGXSettingCenterSwitchCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		D0242449D11E8400A463C40C07112558 /* CGXSettingCenterView.m in Sources */ = {isa = PBXBuildFile; fileRef = C94F46FC5F3952F36B7D9D7DB779F132 /* CGXSettingCenterView.m */; };
+		DA776BF6AF8D0FD07B86D7A41106EFFF /* CGXSettingCenterArrowCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CBF8B112401EA6D74C559B4EAAA12018 /* CGXSettingCenterArrowCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		DBF9EE6CA82B1FCDA55FE331CA97BFEA /* CGXSettingCenterBaseCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 64156DB091C48F40D23A4D1823B446F6 /* CGXSettingCenterBaseCell.m */; };
+		E01043A43E62871149548279728DA0A5 /* CGXSettingCenterSectionModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 42A8BE7B804615F3BF336ECC6751848F /* CGXSettingCenterSectionModel.m */; };
+		E16B433C72FFECC33E3C190E58DB3591 /* CGXSettingCenterTextCell.h in Headers */ = {isa = PBXBuildFile; fileRef = B6FE580FAAE172693ABACC5139AE5B3B /* CGXSettingCenterTextCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		E3C8E0B7A2C3B5399343F6530A9CEAF7 /* CGXSettingCenterViewOC-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DF5C1B55E60C7520E63AAF263994A066 /* CGXSettingCenterViewOC-dummy.m */; };
+		E8078189A8971D7568DCED347B9CEE44 /* CGXSettingCenterSectionModel.h in Headers */ = {isa = PBXBuildFile; fileRef = BF27AAA32E4E5922C3F8C45FF2991519 /* CGXSettingCenterSectionModel.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		F7FEADCEF312D6309F119D0BE331E968 /* Pods-CGXSettingCenterView-OC-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DC43E8CD4BD38C958BA5F2E7EE6637FA /* Pods-CGXSettingCenterView-OC-dummy.m */; };
-		FBCE00EBD235D95DE03D5D09053F4EC5 /* CGXSettingCenterTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 568DD41D26EFF3A2D8F2B23349727FD1 /* CGXSettingCenterTools.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		FD6B4B99ADC417383295A8CE32957B08 /* CGXSettingCenterTitleCell.h in Headers */ = {isa = PBXBuildFile; fileRef = AC300B6E7739AE0B93686A8B0DD09A0F /* CGXSettingCenterTitleCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		FDBA3595BAF2094C1D900FE0D9AF1454 /* CGXSettingCenterSectionTextModel.m in Sources */ = {isa = PBXBuildFile; fileRef = D405B74CC52AEB51D575118CDDFACB42 /* CGXSettingCenterSectionTextModel.m */; };
+		FE009941485D5522E764F889DD3D3D61 /* CGXSettingCenterCustomCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 8AFBC0EDBA3800344A3271CACDE8CA6C /* CGXSettingCenterCustomCell.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,50 +51,50 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00660ABF7197511BF87E2DF927B6CF0C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		127B2B02B39363DCFFD48C2D9E4040D2 /* CGXSettingCenterViewOC-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CGXSettingCenterViewOC-prefix.pch"; sourceTree = "<group>"; };
-		1BD4DE433C794258F351BBE34DC8E8C0 /* CGXSettingCenterFooterView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterFooterView.h; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterFooterView.h; sourceTree = "<group>"; };
-		2215593AB7C08B8BD1968DC74A1E9B55 /* CGXSettingCenterSectionItemModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterSectionItemModel.h; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionItemModel.h; sourceTree = "<group>"; };
-		242F91DC646041F6713823912EAD541C /* CGXSettingCenterSectionItemModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterSectionItemModel.m; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionItemModel.m; sourceTree = "<group>"; };
-		26886E1C46412746253A9D6E6A62F78D /* CGXSettingCenterSwitchCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterSwitchCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterSwitchCell.h; sourceTree = "<group>"; };
-		3F371AC0421195FC145E504F1EF80CF1 /* CGXSettingCenterHeaderView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterHeaderView.m; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterHeaderView.m; sourceTree = "<group>"; };
-		3F93D2FF32C189EC517CE5E2C8494AD9 /* CGXSettingCenterBaseCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterBaseCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterBaseCell.m; sourceTree = "<group>"; };
-		41601F49959DFDA9659D607ABACA2AF1 /* CGXSettingCenterCustomCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterCustomCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterCustomCell.m; sourceTree = "<group>"; };
-		568DD41D26EFF3A2D8F2B23349727FD1 /* CGXSettingCenterTools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterTools.h; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterTools.h; sourceTree = "<group>"; };
-		6496A607C5DD20F2F20E7EC9B90D568F /* CGXSettingCenterViewOC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CGXSettingCenterViewOC.debug.xcconfig; sourceTree = "<group>"; };
-		676D957C62FACADDBD39AD443D5D782D /* CGXSettingCenterTitleCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterTitleCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterTitleCell.m; sourceTree = "<group>"; };
-		69C713BF81902FBA67DE3D4B6F75817F /* CGXSettingCenterTextCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterTextCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterTextCell.h; sourceTree = "<group>"; };
-		784573577537EBE4C62C1EDCB0F532E6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		000C0DFD904489F6A8FF525F0E347119 /* CGXSettingCenterTools.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterTools.m; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterTools.m; sourceTree = "<group>"; };
+		07721DCE86AA1A33F9B3337B4ECE65C3 /* CGXSettingCenterCustomCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterCustomCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterCustomCell.m; sourceTree = "<group>"; };
+		299B60CB7BB8561A9212DE7F694C39A6 /* CGXSettingCenterSectionTextModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterSectionTextModel.h; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionTextModel.h; sourceTree = "<group>"; };
+		2A72E8300135E92C1F30D93957C5A50C /* CGXSettingCenterViewOC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CGXSettingCenterViewOC.debug.xcconfig; sourceTree = "<group>"; };
+		2F9B560578B03AF0ED340D3790390311 /* CGXSettingCenterViewOC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterViewOC.h; path = CGXSettingCenterViewOC/CGXSettingCenterViewOC.h; sourceTree = "<group>"; };
+		42A8BE7B804615F3BF336ECC6751848F /* CGXSettingCenterSectionModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterSectionModel.m; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionModel.m; sourceTree = "<group>"; };
+		45AD4DE4E96404E297DB6E4EA78C2036 /* CGXSettingCenterTools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterTools.h; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterTools.h; sourceTree = "<group>"; };
+		471D2C61A172FACEEB72C247636DAA91 /* CGXSettingCenterViewOC.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = CGXSettingCenterViewOC.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		491BC68ECD4529910D46959B43B3F896 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		4C63CD38F13BDC372DE5BEC4EE38E3CC /* CGXSettingCenterTitleCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterTitleCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterTitleCell.m; sourceTree = "<group>"; };
+		52A81932A80EE62A384DB2ECAECACA92 /* CGXSettingCenterImageCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterImageCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterImageCell.m; sourceTree = "<group>"; };
+		5A0C648527421ED4C036C53407C85259 /* CGXSettingCenterViewOC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CGXSettingCenterViewOC.release.xcconfig; sourceTree = "<group>"; };
+		64156DB091C48F40D23A4D1823B446F6 /* CGXSettingCenterBaseCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterBaseCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterBaseCell.m; sourceTree = "<group>"; };
+		6DD7D79C5594C960C3F721077D7B5668 /* CGXSettingCenterSectionItemModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterSectionItemModel.m; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionItemModel.m; sourceTree = "<group>"; };
 		7946B2ADF16B96ED870EB0F5CC69C835 /* libCGXSettingCenterViewOC.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libCGXSettingCenterViewOC.a; path = libCGXSettingCenterViewOC.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		7A2988283CE808F03E81DAD89DEF2496 /* CGXSettingCenterFooterView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterFooterView.m; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterFooterView.m; sourceTree = "<group>"; };
-		7D879C370A84269F46BA8643D2CA8244 /* CGXSettingCenterSectionTextModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterSectionTextModel.m; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionTextModel.m; sourceTree = "<group>"; };
-		7E251ABC189CB441390CC50CD1FE638B /* CGXSettingCenterViewOC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CGXSettingCenterViewOC-dummy.m"; sourceTree = "<group>"; };
 		865E927DFB3D5E63C50834638A1D3E67 /* Pods-CGXSettingCenterView-OC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CGXSettingCenterView-OC.release.xcconfig"; sourceTree = "<group>"; };
-		877AC9A430F0A6CBCF47E6DF2C734C9F /* CGXSettingCenterHeaderView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterHeaderView.h; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterHeaderView.h; sourceTree = "<group>"; };
-		8935554604CBAB3F6D440DA0EB2FE3BA /* CGXSettingCenterImageCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterImageCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterImageCell.h; sourceTree = "<group>"; };
-		8D4823CB0E6FE9DD7AAE854B328898EB /* CGXSettingCenterSectionModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterSectionModel.h; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionModel.h; sourceTree = "<group>"; };
-		9175056138DEE439419A017300CC8692 /* CGXSettingCenterViewOC.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = CGXSettingCenterViewOC.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8AFBC0EDBA3800344A3271CACDE8CA6C /* CGXSettingCenterCustomCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterCustomCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterCustomCell.h; sourceTree = "<group>"; };
 		967D09A3A845331CFC4D9D027F85017F /* Pods-CGXSettingCenterView-OC-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CGXSettingCenterView-OC-acknowledgements.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A0CE168F7301D6701A17DEE49CAE390B /* Pods-CGXSettingCenterView-OC-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CGXSettingCenterView-OC-acknowledgements.markdown"; sourceTree = "<group>"; };
-		A23E6BDA5BFD937A867AC1338B4F6378 /* CGXSettingCenterArrowCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterArrowCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterArrowCell.m; sourceTree = "<group>"; };
 		A43CA7E6E66BDAE933F89869377B6E16 /* Pods-CGXSettingCenterView-OC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CGXSettingCenterView-OC.debug.xcconfig"; sourceTree = "<group>"; };
-		AC300B6E7739AE0B93686A8B0DD09A0F /* CGXSettingCenterTitleCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterTitleCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterTitleCell.h; sourceTree = "<group>"; };
-		AD47AD6E4694845F564D7F28ADF1398B /* CGXSettingCenterSectionTextModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterSectionTextModel.h; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionTextModel.h; sourceTree = "<group>"; };
-		B0DE587E46842E3E199F8A202FACBBC3 /* CGXSettingCenterBaseCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterBaseCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterBaseCell.h; sourceTree = "<group>"; };
-		BE9AE93B00B8808624FEC2042F453B76 /* CGXSettingCenterSwitchCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterSwitchCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterSwitchCell.m; sourceTree = "<group>"; };
+		A6ACCC984EC3D9BAB85ABBAEC5A8DD4B /* CGXSettingCenterImageCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterImageCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterImageCell.h; sourceTree = "<group>"; };
+		A6C77455668A3155F6195C2E5590AC79 /* CGXSettingCenterFooterView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterFooterView.m; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterFooterView.m; sourceTree = "<group>"; };
+		A78F965711206D7BC0561D7866B237EA /* CGXSettingCenterView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterView.h; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterView.h; sourceTree = "<group>"; };
+		ACAEA5771314701AEB69C44D2189A8AE /* CGXSettingCenterArrowCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterArrowCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterArrowCell.m; sourceTree = "<group>"; };
+		AE4CC708479535E00FCD2F4FF2CD3A3A /* CGXSettingCenterSwitchCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterSwitchCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterSwitchCell.h; sourceTree = "<group>"; };
+		AFE0D04AB5AFF6DC2E09BE1AA09B97B1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		B6FE580FAAE172693ABACC5139AE5B3B /* CGXSettingCenterTextCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterTextCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterTextCell.h; sourceTree = "<group>"; };
+		BA60D5E211CE775598298A899F08000F /* CGXSettingCenterBaseCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterBaseCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterBaseCell.h; sourceTree = "<group>"; };
+		BF27AAA32E4E5922C3F8C45FF2991519 /* CGXSettingCenterSectionModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterSectionModel.h; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionModel.h; sourceTree = "<group>"; };
 		BF2A1C5FCF4D00ED46C394B836FC718A /* libPods-CGXSettingCenterView-OC.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-CGXSettingCenterView-OC.a"; path = "libPods-CGXSettingCenterView-OC.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C55CC498EC96E9D909B58DCCB8C42774 /* CGXSettingCenterViewOC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CGXSettingCenterViewOC.release.xcconfig; sourceTree = "<group>"; };
-		C6D6F75E98FD40F0236C06DC96E873A6 /* CGXSettingCenterTextCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterTextCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterTextCell.m; sourceTree = "<group>"; };
-		C80D01A020037A2EE0BEBDB16FF743FC /* CGXSettingCenterViewOC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterViewOC.h; path = CGXSettingCenterViewOC/CGXSettingCenterViewOC.h; sourceTree = "<group>"; };
-		CF0E29469E271D35C11CB9E34DAC4BEF /* CGXSettingCenterImageCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterImageCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterImageCell.m; sourceTree = "<group>"; };
-		D9D6A333BAA3929594E35597015E35AC /* CGXSettingCenterView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterView.h; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterView.h; sourceTree = "<group>"; };
+		C5C978DBFCC7DD999C0623078946C1ED /* CGXSettingCenterViewOC-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CGXSettingCenterViewOC-prefix.pch"; sourceTree = "<group>"; };
+		C94F46FC5F3952F36B7D9D7DB779F132 /* CGXSettingCenterView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterView.m; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterView.m; sourceTree = "<group>"; };
+		CBF8B112401EA6D74C559B4EAAA12018 /* CGXSettingCenterArrowCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterArrowCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterArrowCell.h; sourceTree = "<group>"; };
+		D10A1D4C3B672AEF0B36984140BCCC75 /* CGXSettingCenterFooterView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterFooterView.h; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterFooterView.h; sourceTree = "<group>"; };
+		D405B74CC52AEB51D575118CDDFACB42 /* CGXSettingCenterSectionTextModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterSectionTextModel.m; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionTextModel.m; sourceTree = "<group>"; };
+		D48AF37FF15008F942630A3A1017048C /* CGXSettingCenterSwitchCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterSwitchCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterSwitchCell.m; sourceTree = "<group>"; };
+		D9096CC79C25475C7121CA52BF0F955D /* CGXSettingCenterTextCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterTextCell.m; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterTextCell.m; sourceTree = "<group>"; };
+		D9EF7DCB3C3FC24307F579BB04FF164F /* CGXSettingCenterSectionItemModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterSectionItemModel.h; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionItemModel.h; sourceTree = "<group>"; };
 		DC43E8CD4BD38C958BA5F2E7EE6637FA /* Pods-CGXSettingCenterView-OC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CGXSettingCenterView-OC-dummy.m"; sourceTree = "<group>"; };
-		E6D0001F29393EC0F0FB392495B45D7E /* CGXSettingCenterSectionModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterSectionModel.m; path = CGXSettingCenterViewOC/CustomModel/CGXSettingCenterSectionModel.m; sourceTree = "<group>"; };
-		E74F1DCE3B30561A9DF9175B6868C9C0 /* CGXSettingCenterArrowCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterArrowCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterArrowCell.h; sourceTree = "<group>"; };
-		EB53150E7757E1396026A214308DDCFD /* CGXSettingCenterView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterView.m; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterView.m; sourceTree = "<group>"; };
-		F2B7A9368CFA3428ED7607583AC8139C /* CGXSettingCenterCustomCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterCustomCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterCustomCell.h; sourceTree = "<group>"; };
-		F3C42CD7A3BF600AB6CBA451162E9F93 /* CGXSettingCenterTools.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterTools.m; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterTools.m; sourceTree = "<group>"; };
+		DF5C1B55E60C7520E63AAF263994A066 /* CGXSettingCenterViewOC-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CGXSettingCenterViewOC-dummy.m"; sourceTree = "<group>"; };
+		E7D24B44F1085264F73CE3B19DF26FF6 /* CGXSettingCenterTitleCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterTitleCell.h; path = CGXSettingCenterViewOC/CustomCell/CGXSettingCenterTitleCell.h; sourceTree = "<group>"; };
+		F574AAB45213B55E7097E91BE7EB3185 /* CGXSettingCenterHeaderView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = CGXSettingCenterHeaderView.m; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterHeaderView.m; sourceTree = "<group>"; };
+		F9F5F39E964642FB0439562BF9D24814 /* CGXSettingCenterHeaderView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CGXSettingCenterHeaderView.h; path = CGXSettingCenterViewOC/CustomView/CGXSettingCenterHeaderView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,22 +118,22 @@
 		086A80176CC660A6EA0EF8FB3C58C748 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				97D90EA5161397A5C79AEFCB112BFC6B /* CGXSettingCenterViewOC */,
+				596B963C18DFACD428649FFE51AF031C /* CGXSettingCenterViewOC */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		23834BD597FB659FB7C66245C8AA31FB /* CustomModel */ = {
+		189B2F0D47F92240E6BC3598CEAA7F99 /* CustomView */ = {
 			isa = PBXGroup;
 			children = (
-				2215593AB7C08B8BD1968DC74A1E9B55 /* CGXSettingCenterSectionItemModel.h */,
-				242F91DC646041F6713823912EAD541C /* CGXSettingCenterSectionItemModel.m */,
-				8D4823CB0E6FE9DD7AAE854B328898EB /* CGXSettingCenterSectionModel.h */,
-				E6D0001F29393EC0F0FB392495B45D7E /* CGXSettingCenterSectionModel.m */,
-				AD47AD6E4694845F564D7F28ADF1398B /* CGXSettingCenterSectionTextModel.h */,
-				7D879C370A84269F46BA8643D2CA8244 /* CGXSettingCenterSectionTextModel.m */,
+				D10A1D4C3B672AEF0B36984140BCCC75 /* CGXSettingCenterFooterView.h */,
+				A6C77455668A3155F6195C2E5590AC79 /* CGXSettingCenterFooterView.m */,
+				F9F5F39E964642FB0439562BF9D24814 /* CGXSettingCenterHeaderView.h */,
+				F574AAB45213B55E7097E91BE7EB3185 /* CGXSettingCenterHeaderView.m */,
+				A78F965711206D7BC0561D7866B237EA /* CGXSettingCenterView.h */,
+				C94F46FC5F3952F36B7D9D7DB779F132 /* CGXSettingCenterView.m */,
 			);
-			name = CustomModel;
+			name = CustomView;
 			sourceTree = "<group>";
 		};
 		35C2A53CCD9DE1D27A61FE74F57BB1DD /* Pods-CGXSettingCenterView-OC */ = {
@@ -149,35 +149,45 @@
 			path = "Target Support Files/Pods-CGXSettingCenterView-OC";
 			sourceTree = "<group>";
 		};
-		461B748658F3BC73724D2BEBD756DD42 /* CustomCell */ = {
+		5886A611C11914F17503314D5BEE61A8 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				E74F1DCE3B30561A9DF9175B6868C9C0 /* CGXSettingCenterArrowCell.h */,
-				A23E6BDA5BFD937A867AC1338B4F6378 /* CGXSettingCenterArrowCell.m */,
-				B0DE587E46842E3E199F8A202FACBBC3 /* CGXSettingCenterBaseCell.h */,
-				3F93D2FF32C189EC517CE5E2C8494AD9 /* CGXSettingCenterBaseCell.m */,
-				F2B7A9368CFA3428ED7607583AC8139C /* CGXSettingCenterCustomCell.h */,
-				41601F49959DFDA9659D607ABACA2AF1 /* CGXSettingCenterCustomCell.m */,
-				8935554604CBAB3F6D440DA0EB2FE3BA /* CGXSettingCenterImageCell.h */,
-				CF0E29469E271D35C11CB9E34DAC4BEF /* CGXSettingCenterImageCell.m */,
-				26886E1C46412746253A9D6E6A62F78D /* CGXSettingCenterSwitchCell.h */,
-				BE9AE93B00B8808624FEC2042F453B76 /* CGXSettingCenterSwitchCell.m */,
-				69C713BF81902FBA67DE3D4B6F75817F /* CGXSettingCenterTextCell.h */,
-				C6D6F75E98FD40F0236C06DC96E873A6 /* CGXSettingCenterTextCell.m */,
-				AC300B6E7739AE0B93686A8B0DD09A0F /* CGXSettingCenterTitleCell.h */,
-				676D957C62FACADDBD39AD443D5D782D /* CGXSettingCenterTitleCell.m */,
+				DF5C1B55E60C7520E63AAF263994A066 /* CGXSettingCenterViewOC-dummy.m */,
+				C5C978DBFCC7DD999C0623078946C1ED /* CGXSettingCenterViewOC-prefix.pch */,
+				2A72E8300135E92C1F30D93957C5A50C /* CGXSettingCenterViewOC.debug.xcconfig */,
+				5A0C648527421ED4C036C53407C85259 /* CGXSettingCenterViewOC.release.xcconfig */,
 			);
-			name = CustomCell;
+			name = "Support Files";
+			path = "CGXSettingCenterView-OC/Pods/Target Support Files/CGXSettingCenterViewOC";
 			sourceTree = "<group>";
 		};
-		60AAE3D39C00539F265248D1CAF4D98F /* Pod */ = {
+		596B963C18DFACD428649FFE51AF031C /* CGXSettingCenterViewOC */ = {
 			isa = PBXGroup;
 			children = (
-				9175056138DEE439419A017300CC8692 /* CGXSettingCenterViewOC.podspec */,
-				784573577537EBE4C62C1EDCB0F532E6 /* LICENSE */,
-				00660ABF7197511BF87E2DF927B6CF0C /* README.md */,
+				2F9B560578B03AF0ED340D3790390311 /* CGXSettingCenterViewOC.h */,
+				9DE32688588419ABD4B69BE4BBB3C730 /* CustomCell */,
+				5F001BE090F1FB3357E4195CF1516F8A /* CustomModel */,
+				189B2F0D47F92240E6BC3598CEAA7F99 /* CustomView */,
+				83F8C895D2D8CF69CC196AB884242987 /* Pod */,
+				5886A611C11914F17503314D5BEE61A8 /* Support Files */,
 			);
-			name = Pod;
+			name = CGXSettingCenterViewOC;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		5F001BE090F1FB3357E4195CF1516F8A /* CustomModel */ = {
+			isa = PBXGroup;
+			children = (
+				D9EF7DCB3C3FC24307F579BB04FF164F /* CGXSettingCenterSectionItemModel.h */,
+				6DD7D79C5594C960C3F721077D7B5668 /* CGXSettingCenterSectionItemModel.m */,
+				BF27AAA32E4E5922C3F8C45FF2991519 /* CGXSettingCenterSectionModel.h */,
+				42A8BE7B804615F3BF336ECC6751848F /* CGXSettingCenterSectionModel.m */,
+				299B60CB7BB8561A9212DE7F694C39A6 /* CGXSettingCenterSectionTextModel.h */,
+				D405B74CC52AEB51D575118CDDFACB42 /* CGXSettingCenterSectionTextModel.m */,
+				45AD4DE4E96404E297DB6E4EA78C2036 /* CGXSettingCenterTools.h */,
+				000C0DFD904489F6A8FF525F0E347119 /* CGXSettingCenterTools.m */,
+			);
+			name = CustomModel;
 			sourceTree = "<group>";
 		};
 		80A64655565EF6545087533BC0500249 /* Products */ = {
@@ -189,45 +199,35 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8616A1614F09F9E0A4A2FFCCC69FB1A8 /* Support Files */ = {
+		83F8C895D2D8CF69CC196AB884242987 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				7E251ABC189CB441390CC50CD1FE638B /* CGXSettingCenterViewOC-dummy.m */,
-				127B2B02B39363DCFFD48C2D9E4040D2 /* CGXSettingCenterViewOC-prefix.pch */,
-				6496A607C5DD20F2F20E7EC9B90D568F /* CGXSettingCenterViewOC.debug.xcconfig */,
-				C55CC498EC96E9D909B58DCCB8C42774 /* CGXSettingCenterViewOC.release.xcconfig */,
+				471D2C61A172FACEEB72C247636DAA91 /* CGXSettingCenterViewOC.podspec */,
+				491BC68ECD4529910D46959B43B3F896 /* LICENSE */,
+				AFE0D04AB5AFF6DC2E09BE1AA09B97B1 /* README.md */,
 			);
-			name = "Support Files";
-			path = "CGXSettingCenterView-OC/Pods/Target Support Files/CGXSettingCenterViewOC";
+			name = Pod;
 			sourceTree = "<group>";
 		};
-		97D90EA5161397A5C79AEFCB112BFC6B /* CGXSettingCenterViewOC */ = {
+		9DE32688588419ABD4B69BE4BBB3C730 /* CustomCell */ = {
 			isa = PBXGroup;
 			children = (
-				C80D01A020037A2EE0BEBDB16FF743FC /* CGXSettingCenterViewOC.h */,
-				461B748658F3BC73724D2BEBD756DD42 /* CustomCell */,
-				23834BD597FB659FB7C66245C8AA31FB /* CustomModel */,
-				BD93E0562341EEB634D4F88A1CBA77B6 /* CustomView */,
-				60AAE3D39C00539F265248D1CAF4D98F /* Pod */,
-				8616A1614F09F9E0A4A2FFCCC69FB1A8 /* Support Files */,
+				CBF8B112401EA6D74C559B4EAAA12018 /* CGXSettingCenterArrowCell.h */,
+				ACAEA5771314701AEB69C44D2189A8AE /* CGXSettingCenterArrowCell.m */,
+				BA60D5E211CE775598298A899F08000F /* CGXSettingCenterBaseCell.h */,
+				64156DB091C48F40D23A4D1823B446F6 /* CGXSettingCenterBaseCell.m */,
+				8AFBC0EDBA3800344A3271CACDE8CA6C /* CGXSettingCenterCustomCell.h */,
+				07721DCE86AA1A33F9B3337B4ECE65C3 /* CGXSettingCenterCustomCell.m */,
+				A6ACCC984EC3D9BAB85ABBAEC5A8DD4B /* CGXSettingCenterImageCell.h */,
+				52A81932A80EE62A384DB2ECAECACA92 /* CGXSettingCenterImageCell.m */,
+				AE4CC708479535E00FCD2F4FF2CD3A3A /* CGXSettingCenterSwitchCell.h */,
+				D48AF37FF15008F942630A3A1017048C /* CGXSettingCenterSwitchCell.m */,
+				B6FE580FAAE172693ABACC5139AE5B3B /* CGXSettingCenterTextCell.h */,
+				D9096CC79C25475C7121CA52BF0F955D /* CGXSettingCenterTextCell.m */,
+				E7D24B44F1085264F73CE3B19DF26FF6 /* CGXSettingCenterTitleCell.h */,
+				4C63CD38F13BDC372DE5BEC4EE38E3CC /* CGXSettingCenterTitleCell.m */,
 			);
-			name = CGXSettingCenterViewOC;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		BD93E0562341EEB634D4F88A1CBA77B6 /* CustomView */ = {
-			isa = PBXGroup;
-			children = (
-				1BD4DE433C794258F351BBE34DC8E8C0 /* CGXSettingCenterFooterView.h */,
-				7A2988283CE808F03E81DAD89DEF2496 /* CGXSettingCenterFooterView.m */,
-				877AC9A430F0A6CBCF47E6DF2C734C9F /* CGXSettingCenterHeaderView.h */,
-				3F371AC0421195FC145E504F1EF80CF1 /* CGXSettingCenterHeaderView.m */,
-				568DD41D26EFF3A2D8F2B23349727FD1 /* CGXSettingCenterTools.h */,
-				F3C42CD7A3BF600AB6CBA451162E9F93 /* CGXSettingCenterTools.m */,
-				D9D6A333BAA3929594E35597015E35AC /* CGXSettingCenterView.h */,
-				EB53150E7757E1396026A214308DDCFD /* CGXSettingCenterView.m */,
-			);
-			name = CustomView;
+			name = CustomCell;
 			sourceTree = "<group>";
 		};
 		C00A631548194BA5960A221E7A0E9450 /* Targets Support Files */ = {
@@ -266,25 +266,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7A98FFD5F0BCF2E78159A4C7FA7D4C19 /* Headers */ = {
+		B267E016D4A50A2753648CCB8AE887B5 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6FAB142296887DC7567803D9D7C9B9D /* CGXSettingCenterArrowCell.h in Headers */,
-				E5E728BD63B6874F27CDCC60528DB134 /* CGXSettingCenterBaseCell.h in Headers */,
-				41579CE1BEFD09AB92821512608DEE1E /* CGXSettingCenterCustomCell.h in Headers */,
-				E1EA8DC18B56A17E7A018D67A563B7F9 /* CGXSettingCenterFooterView.h in Headers */,
-				4957A2474A8DD6F393CEBBC9EFB6975F /* CGXSettingCenterHeaderView.h in Headers */,
-				4E0112DBA738F2FC8B2E57F47BA4EBA3 /* CGXSettingCenterImageCell.h in Headers */,
-				2AF1529062508878C49A48A6C64419F4 /* CGXSettingCenterSectionItemModel.h in Headers */,
-				7D8BCEC3103E11AC95245AA331EA9744 /* CGXSettingCenterSectionModel.h in Headers */,
-				42F9269D67B354F1D684BBB2EA8E7E32 /* CGXSettingCenterSectionTextModel.h in Headers */,
-				70205335DE1972FC80D466C272E994CE /* CGXSettingCenterSwitchCell.h in Headers */,
-				F1F4B54B087527F3E642DD93AE35C627 /* CGXSettingCenterTextCell.h in Headers */,
-				FD6B4B99ADC417383295A8CE32957B08 /* CGXSettingCenterTitleCell.h in Headers */,
-				FBCE00EBD235D95DE03D5D09053F4EC5 /* CGXSettingCenterTools.h in Headers */,
-				84CE5992BFCBDD14012655962A55A372 /* CGXSettingCenterView.h in Headers */,
-				32FCE2B4138A7F65458453AE10D5C4ED /* CGXSettingCenterViewOC.h in Headers */,
+				DA776BF6AF8D0FD07B86D7A41106EFFF /* CGXSettingCenterArrowCell.h in Headers */,
+				787C4F97CB2A85CEFB14A363C57D5C63 /* CGXSettingCenterBaseCell.h in Headers */,
+				FE009941485D5522E764F889DD3D3D61 /* CGXSettingCenterCustomCell.h in Headers */,
+				27FB508BF1DAB1FAC0B9302E495E818B /* CGXSettingCenterFooterView.h in Headers */,
+				962264F115B32043F9E9EC5744D66022 /* CGXSettingCenterHeaderView.h in Headers */,
+				64682328D5F87CCF99E5F5448BDAAD1C /* CGXSettingCenterImageCell.h in Headers */,
+				81B70F38B4AB02D262B697DF0790BCB4 /* CGXSettingCenterSectionItemModel.h in Headers */,
+				E8078189A8971D7568DCED347B9CEE44 /* CGXSettingCenterSectionModel.h in Headers */,
+				486FA1E34D81E9D52B2A909A2F2309D8 /* CGXSettingCenterSectionTextModel.h in Headers */,
+				CB86C4507AB89D84FBC37EBC753F25D0 /* CGXSettingCenterSwitchCell.h in Headers */,
+				E16B433C72FFECC33E3C190E58DB3591 /* CGXSettingCenterTextCell.h in Headers */,
+				3AC1797A0CF4C82CE930EC17A091AACB /* CGXSettingCenterTitleCell.h in Headers */,
+				1083BB5CDB4E3BDBB809E1F9AC3FE298 /* CGXSettingCenterTools.h in Headers */,
+				7EDB3DBCBA5B100A4462089C7F5CA680 /* CGXSettingCenterView.h in Headers */,
+				9760D0AE56D6CB0627B54AF4E8EEB984 /* CGXSettingCenterViewOC.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,8 +313,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = DF5FF20962D08F2868B3256583155220 /* Build configuration list for PBXNativeTarget "CGXSettingCenterViewOC" */;
 			buildPhases = (
-				7A98FFD5F0BCF2E78159A4C7FA7D4C19 /* Headers */,
-				192864D80A238FCFE1B2E91E80FCE905 /* Sources */,
+				B267E016D4A50A2753648CCB8AE887B5 /* Headers */,
+				47E37D8B36432E42D1F37DA67CDC48A0 /* Sources */,
 				B82796E88C02F58DC019558A55183558 /* Frameworks */,
 			);
 			buildRules = (
@@ -355,25 +355,25 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		192864D80A238FCFE1B2E91E80FCE905 /* Sources */ = {
+		47E37D8B36432E42D1F37DA67CDC48A0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC498256D81DBD17C3C2DCD84F6EE7E4 /* CGXSettingCenterArrowCell.m in Sources */,
-				9E580C5A90D67C4B064A5B8A45D934E6 /* CGXSettingCenterBaseCell.m in Sources */,
-				3470996B0FEBC5FB5B05BC8FEA5EC091 /* CGXSettingCenterCustomCell.m in Sources */,
-				86291BA10FD18B6C6D55A6F34AE34A18 /* CGXSettingCenterFooterView.m in Sources */,
-				5ABBA3BC83EC4EB48F5A4D18F014D0F4 /* CGXSettingCenterHeaderView.m in Sources */,
-				8855C163BAFA05586674B67ED6EAF3D5 /* CGXSettingCenterImageCell.m in Sources */,
-				F3B63C74151DC25AB49139D9ADA32EAF /* CGXSettingCenterSectionItemModel.m in Sources */,
-				C3DBDE6267DA5D1D6A598025F14A2011 /* CGXSettingCenterSectionModel.m in Sources */,
-				C336E15E49393A14DABC526B5BBCDABA /* CGXSettingCenterSectionTextModel.m in Sources */,
-				097CD01DC1EA369102138DD8363D3195 /* CGXSettingCenterSwitchCell.m in Sources */,
-				DCDEE72D4C83B2EC6BE805D1AAD35AA7 /* CGXSettingCenterTextCell.m in Sources */,
-				BAA02F59E2AAF34852B826ED00755E4A /* CGXSettingCenterTitleCell.m in Sources */,
-				497038FF0FA0AAE1BD349C7EF8053CBE /* CGXSettingCenterTools.m in Sources */,
-				986FF571DA02CAB162E605FA2AEE75C1 /* CGXSettingCenterView.m in Sources */,
-				DD877D5B6A8E8C88737B5445F6D1D8E6 /* CGXSettingCenterViewOC-dummy.m in Sources */,
+				5150CB69FAD6ADCA9589234F7C59AF66 /* CGXSettingCenterArrowCell.m in Sources */,
+				DBF9EE6CA82B1FCDA55FE331CA97BFEA /* CGXSettingCenterBaseCell.m in Sources */,
+				AC505D18E48B210E18496FA92B57F852 /* CGXSettingCenterCustomCell.m in Sources */,
+				ACE5A445FDC2EDCF4D2CD70A7CD48E83 /* CGXSettingCenterFooterView.m in Sources */,
+				5B930D2DD88089FEE945624DC5BC3C98 /* CGXSettingCenterHeaderView.m in Sources */,
+				A4F4829B12BB4AB8EB6D5AFA2736E73D /* CGXSettingCenterImageCell.m in Sources */,
+				C666B9A80D8CDD6EB82E73BE4DF21EEF /* CGXSettingCenterSectionItemModel.m in Sources */,
+				E01043A43E62871149548279728DA0A5 /* CGXSettingCenterSectionModel.m in Sources */,
+				FDBA3595BAF2094C1D900FE0D9AF1454 /* CGXSettingCenterSectionTextModel.m in Sources */,
+				69B34D7374187D8EAE9A2D06C42AD420 /* CGXSettingCenterSwitchCell.m in Sources */,
+				997BE18042747F5BD210A1F5F64AF694 /* CGXSettingCenterTextCell.m in Sources */,
+				6C8556DC2F29C456CB4B7DF9F0D6DB85 /* CGXSettingCenterTitleCell.m in Sources */,
+				0A67B3587C7B931B5B0B00F604326B6E /* CGXSettingCenterTools.m in Sources */,
+				D0242449D11E8400A463C40C07112558 /* CGXSettingCenterView.m in Sources */,
+				E3C8E0B7A2C3B5399343F6530A9CEAF7 /* CGXSettingCenterViewOC-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,7 +420,7 @@
 		};
 		047CE6C54D4370E3A8FA6D1A7A7E8C64 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C55CC498EC96E9D909B58DCCB8C42774 /* CGXSettingCenterViewOC.release.xcconfig */;
+			baseConfigurationReference = 5A0C648527421ED4C036C53407C85259 /* CGXSettingCenterViewOC.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -529,7 +529,7 @@
 		};
 		74860DDF4479DBD4F8BEBAE32DE0CD84 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6496A607C5DD20F2F20E7EC9B90D568F /* CGXSettingCenterViewOC.debug.xcconfig */;
+			baseConfigurationReference = 2A72E8300135E92C1F30D93957C5A50C /* CGXSettingCenterViewOC.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
