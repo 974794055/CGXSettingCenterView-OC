@@ -21,14 +21,14 @@ Clone代码，把Sources文件夹拖入项目，#import "CGXSettingCenterView.h"
 ### CocoaPods
 ```ruby
 target '<Your Target Name>' do
-pod 'CGXSettingCenterView'
+pod 'CGXSettingCenterViewOC'
 end
 ```
 先执行`pod repo update`，再执行`pod install`
 
 ## 补充
 - 代码的搬运工
-- 如果刚开始使用`CGXSettingCenterView`，请查看源代码示例是否支持某种特性。
+- 如果刚开始使用`CGXSettingCenterViewOC`，请查看源代码示例是否支持某种特性。
 - 该仓库保持随时更新主流设置列表效果。
 </br>邮箱：974794055@qq.com </br>
 QQ群： 
@@ -36,7 +36,7 @@ QQ群：
 
 喜欢就star❤️一下吧
 ## License
-CGXSettingCenterView is released under the MIT license.
+CGXSettingCenterViewOC is released under the MIT license.
 
 
 

@@ -25,32 +25,5 @@
   ],
   "static_framework": true,
   "source_files": "CGXSettingCenterViewOC/CGXSettingCenterViewOC.h",
-  "public_header_files": "CGXSettingCenterViewOC/CGXSettingCenterViewOC.h",
-  "subspecs": [
-    {
-      "name": "CustomModel",
-      "source_files": "CGXSettingCenterViewOC/CustomModel/**/*.{h,m}"
-    },
-    {
-      "name": "CustomCell",
-      "source_files": "CGXSettingCenterViewOC/CustomCell/**/*.{h,m}",
-      "dependencies": {
-        "CGXSettingCenterViewOC/CustomModel": [
-
-        ]
-      }
-    },
-    {
-      "name": "CustomView",
-      "source_files": "CGXSettingCenterViewOC/CustomView/**/*.{h,m}",
-      "dependencies": {
-        "CGXSettingCenterViewOC/CustomModel": [
-
-        ],
-        "CGXSettingCenterViewOC/CustomCell": [
-
-        ]
-      }
-    }
-  ]
+  "public_header_files": "CGXSettingCenterViewOC/CGXSettingCenterViewOC.h"
 }
