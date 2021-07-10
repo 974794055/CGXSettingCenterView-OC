@@ -1,0 +1,1 @@
+../../../../../CGXSettingCenterViewOC/CGXSettingCenterTools.h
