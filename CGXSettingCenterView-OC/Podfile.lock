@@ -1,5 +1,14 @@
 PODS:
-  - CGXSettingCenterViewOC (0.1)
+  - CGXSettingCenterViewOC (0.1):
+    - CGXSettingCenterViewOC/Cell (= 0.1)
+    - CGXSettingCenterViewOC/Model (= 0.1)
+    - CGXSettingCenterViewOC/View (= 0.1)
+  - CGXSettingCenterViewOC/Cell (0.1):
+    - CGXSettingCenterViewOC/Model
+  - CGXSettingCenterViewOC/Model (0.1)
+  - CGXSettingCenterViewOC/View (0.1):
+    - CGXSettingCenterViewOC/Cell
+    - CGXSettingCenterViewOC/Model
 
 DEPENDENCIES:
   - CGXSettingCenterViewOC (from `../`)
@@ -9,7 +18,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CGXSettingCenterViewOC: aa3b341a80b3cdf2792c6acf0841b1e59d700f55
+  CGXSettingCenterViewOC: 6ba041128850a40b6acf3fc903ded65b231ec380
 
 PODFILE CHECKSUM: 86ef87b03818fbeda39b8a4b461d8fa4348b33ed
 

@@ -1,0 +1,1 @@
+../../../../../CGXSettingCenterViewOC/Cell/CGXSettingCenterImageCell.h

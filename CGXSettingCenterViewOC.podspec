@@ -13,11 +13,22 @@ Pod::Spec.new do |s|
     s.static_framework = true
     s.ios.deployment_target = '9.0'
     #需要托管的源代码路径
-    s.source_files = 'CGXSettingCenterViewOC/**/*.{h,m}'
+    s.source_files = 'CGXSettingCenterViewOC/CGXSettingCenterViewOC.h'
     #开源库头文件
-    s.public_header_files = 'CGXSettingCenterViewOC/**/*.{h,m}'
+    s.public_header_files = 'CGXSettingCenterViewOC/CGXSettingCenterViewOC.h'
     
-
+    s.subspec 'Model' do |ss|
+        ss.source_files = 'CGXSettingCenterViewOC/Model/**/*.{h,m}'
+    end
+    s.subspec 'Cell' do |ss|
+        ss.source_files = 'CGXSettingCenterViewOC/Cell/**/*.{h,m}'
+        ss.dependency 'CGXSettingCenterViewOC/Model'
+    end
+    s.subspec 'View' do |ss|
+        ss.source_files = 'CGXSettingCenterViewOC/View/**/*.{h,m}'
+        ss.dependency 'CGXSettingCenterViewOC/Model'
+        ss.dependency 'CGXSettingCenterViewOC/Cell'
+    end
 end
 
 

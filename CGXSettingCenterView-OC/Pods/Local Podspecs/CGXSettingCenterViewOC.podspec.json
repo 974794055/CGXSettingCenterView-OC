@@ -25,5 +25,32 @@
   ],
   "static_framework": true,
   "source_files": "CGXSettingCenterViewOC/CGXSettingCenterViewOC.h",
-  "public_header_files": "CGXSettingCenterViewOC/CGXSettingCenterViewOC.h"
+  "public_header_files": "CGXSettingCenterViewOC/CGXSettingCenterViewOC.h",
+  "subspecs": [
+    {
+      "name": "Model",
+      "source_files": "CGXSettingCenterViewOC/Model/**/*.{h,m}"
+    },
+    {
+      "name": "Cell",
+      "source_files": "CGXSettingCenterViewOC/Cell/**/*.{h,m}",
+      "dependencies": {
+        "CGXSettingCenterViewOC/Model": [
+
+        ]
+      }
+    },
+    {
+      "name": "View",
+      "source_files": "CGXSettingCenterViewOC/View/**/*.{h,m}",
+      "dependencies": {
+        "CGXSettingCenterViewOC/Model": [
+
+        ],
+        "CGXSettingCenterViewOC/Cell": [
+
+        ]
+      }
+    }
+  ]
 }

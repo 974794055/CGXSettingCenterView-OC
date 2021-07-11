@@ -1,0 +1,1 @@
+../../../../../CGXSettingCenterViewOC/View/CGXSettingCenterFooterView.h
