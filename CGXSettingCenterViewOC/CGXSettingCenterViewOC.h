@@ -37,5 +37,4 @@
 #import "CGXSettingCenterTitleCell.h"
 
 
-
 #endif /* CGXSettingCenterViewOC_h */
