@@ -20,6 +20,7 @@
 
 @property (nonatomic, strong) CGXSettingCenterView *setView;
 @property (nonatomic, assign) BOOL isCustom;
+
 @end
 
 @implementation ViewController
