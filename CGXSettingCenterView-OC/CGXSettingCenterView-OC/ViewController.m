@@ -67,7 +67,6 @@
         });
         [rowArray addObject:itemM1];
         
-        
         CGXSettingCenterSectionItemModel *itemM2 = ({
             CGXSettingCenterSectionItemModel *itemModel = [[CGXSettingCenterSectionItemModel alloc] initWithSectionType:CGXSettingCenterSectionTypeSwitch];
             itemModel.cellHeight = 44;
