@@ -28,6 +28,7 @@ Pod::Spec.new do |s|
         ss.dependency 'CGXSettingCenterViewOC/Model'
         ss.dependency 'CGXSettingCenterViewOC/Cell'
     end
+    
 end
 
 
