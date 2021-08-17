@@ -38,7 +38,7 @@
             ppTableView.showsVerticalScrollIndicator = NO;
             ppTableView.scrollEnabled = YES;
             ppTableView.bounces = YES;
-            ppTableView.backgroundColor = self.backgroundColor;
+            ppTableView.backgroundColor = [UIColor clearColor];
             ppTableView.estimatedRowHeight = 0;
             ppTableView.estimatedSectionFooterHeight= 0;
             ppTableView.estimatedSectionHeaderHeight= 0;
@@ -82,7 +82,6 @@
 {
     [super layoutSubviews];
     self.tableView.frame  = self.bounds;
-    self.tableView.backgroundColor = self.backgroundColor;
     [self.tableView reloadData];
 }
 #pragma mark tableView代理方法

@@ -24,7 +24,6 @@ pod 'CGXSettingCenterViewOC'
 end
 ```
 先执行`pod repo update`，再执行`pod install`
-
 ## 补充
 - 代码的搬运工
 - 如果刚开始使用`CGXSettingCenterViewOC`，请查看源代码示例是否支持某种特性。

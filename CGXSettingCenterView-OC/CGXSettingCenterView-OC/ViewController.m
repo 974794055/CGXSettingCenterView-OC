@@ -474,7 +474,6 @@
 - (void)gxSettingCenterView:(CGXSettingCenterView *)centerView didSelectRowAtIndexPath:(NSIndexPath *)indexPath ItemModel:(CGXSettingCenterSectionItemModel *)itemModel
 {
     NSLog(@"%@--%@" , itemModel.nameModel.text,indexPath);
-    
     if (indexPath.section == 0&& indexPath.row == 0) {
         itemModel.nameModel.text = [NSString stringWithFormat:@"头像-%u",arc4random() % 10];
         [self.setView updateWithItemModel:itemModel AtIndexPath:indexPath];
