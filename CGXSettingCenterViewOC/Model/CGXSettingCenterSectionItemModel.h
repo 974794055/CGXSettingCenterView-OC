@@ -39,6 +39,8 @@ typedef enum : NSUInteger {
 //cell的原始数据
 @property(nonatomic,strong) id dataModel;
 
+// 是否隐藏cell 默认NO
+@property(nonatomic,assign) BOOL isHiddenCell;
 // 是否有下划线
 @property(nonatomic,assign) BOOL isLine;
 @property(nonatomic,strong) UIColor  *lineViewColor;
@@ -83,6 +85,7 @@ typedef enum : NSUInteger {
 
 
 @property(nonatomic,assign) BOOL switchOpen; // 是否打开
+//配置开关基础
 @property (nonatomic, copy) void(^switchBlock)(UISwitch *itemSwitch);
 
 

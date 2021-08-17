@@ -141,6 +141,9 @@
 {
     CGXSettingCenterSectionModel *sectionModel = self.dataArray[indexPath.section];
     CGXSettingCenterSectionItemModel *itemModel = sectionModel.rowArray[indexPath.row];
+    if (itemModel.isHiddenCell) {
+        return 0;
+    }
     if (itemModel.sectionType == CGXSettingCenterSectionTypeHeader ||
         itemModel.sectionType == CGXSettingCenterSectionTypeTitle ||
         itemModel.sectionType == CGXSettingCenterSectionTypeNode ||
@@ -287,6 +290,28 @@
         [self.dataArray addObject:sectionModel];
     }
     [self.tableView reloadData];
+}
+// 更新某个item
+- (void)updateWithItemModel:(CGXSettingCenterSectionItemModel *)itemModel AtIndexPath:(NSIndexPath *)indexPath
+{
+    if (self.dataArray.count == 0) {
+        return;
+    }
+    if (indexPath.section>self.dataArray.count-1) {
+        return;
+    }
+    for (int i = 0; i<self.dataArray.count; i++) {
+        CGXSettingCenterSectionModel *sectionModel = self.dataArray[i];
+        for (int j = 0; j<sectionModel.rowArray.count; j++) {
+            if (indexPath.section == i && indexPath.row == j) {
+                if (itemModel) {
+                    [sectionModel.rowArray replaceObjectAtIndex:indexPath.row withObject:itemModel];
+                    [self.tableView reloadData];
+                }
+                break;;
+            }
+        }
+    }
 }
 - (void)updateWithTableHeaderView
 {

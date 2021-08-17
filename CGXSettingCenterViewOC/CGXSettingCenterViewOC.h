@@ -15,7 +15,7 @@
  QQ号：974794055
  群名称：
  群   号：
- 版本： 0.5
+ 版本： 0.6
  */
 
 #import "CGXSettingCenterView.h"

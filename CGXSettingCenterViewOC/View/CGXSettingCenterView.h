@@ -73,6 +73,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)updateWithDataArray:(NSMutableArray<CGXSettingCenterSectionModel *> *)dataArray;
 
+// 更新某个item
+- (void)updateWithItemModel:(CGXSettingCenterSectionItemModel *)itemModel AtIndexPath:(NSIndexPath *)indexPath;
+
 - (void)updateWithTableHeaderView;
 - (void)updateWithTableFooterView;
 

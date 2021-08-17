@@ -190,13 +190,13 @@
         
         self.nameTop.constant = 0;
         self.nameLeft.constant = itemModel.spacenameLeft + itemModel.nameImageSize.width + itemModel.spaceNameImage;
-        self.nameWidth.constant = nameSize.width;
+        self.nameWidth.constant = nameSize.width+5;
         self.nameBottom.constant = 0;
         
     } else{
         self.nameTop.constant = 0;
         self.nameLeft.constant = itemModel.spacenameLeft;
-        self.nameWidth.constant = nameSize.width;
+        self.nameWidth.constant = nameSize.width+5;
         self.nameBottom.constant = 0;
     }
     
@@ -206,8 +206,6 @@
     self.lineHeight.constant = 0.5;
     self.lineView.hidden = !itemModel.isLine;
     
-
-//    self.nameLabel.backgroundColor = [UIColor redColor];
 }
 
 @end
