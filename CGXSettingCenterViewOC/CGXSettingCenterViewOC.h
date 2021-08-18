@@ -19,7 +19,6 @@
  */
 
 #import "CGXSettingCenterView.h"
-
 #import "CGXSettingCenterFooterView.h"
 #import "CGXSettingCenterHeaderView.h"
 

@@ -23,6 +23,7 @@ target '<Your Target Name>' do
 pod 'CGXSettingCenterViewOC'
 end
 ```
+
 先执行`pod repo update`，再执行`pod install`
 ## 补充
 - 代码的搬运工

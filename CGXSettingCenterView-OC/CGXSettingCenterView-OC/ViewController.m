@@ -479,7 +479,6 @@
         [self.setView updateWithItemModel:itemModel AtIndexPath:indexPath];
     }
 }
-
 /**
  返回tableHeaderView
  @param centerView pageScrollView description
